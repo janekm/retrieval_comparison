@@ -1,0 +1,9 @@
+zstandard
+numpy
+sentence_transformers
+faiss-cpu
+typer
+tqdm
+requests
+beautifulsoup4
+wikipedia
